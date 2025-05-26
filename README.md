@@ -1,2 +1,2 @@
 # Studentsuite
-Android app For college Students using Kotlin Java developed in Android Studio
+Android app  developed for college Students using Kotlin Java in Android Studio
